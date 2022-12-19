@@ -3,16 +3,21 @@
 }
 body {
   margin: 0;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-size: 18px;
   background-color: white;
-  color:  #49616E;
+  color: #49616e;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: Fraunces, sans;
   font-weight: 400px;
-  color: #162E3C;
+  color: #162e3c;
 }
 h1 {
   font-size: 56px;
