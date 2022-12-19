@@ -41,3 +41,18 @@ h6 {
   max-width: 1288px;
   margin: 0 auto;
 }
+.text-bold {
+  font-weight: 700px;
+}
+
+.theme-blue-white {
+  background-color: #162E3C ;
+  color: white;
+
+}
+
+.theme-green-blue {
+  background-color: #DDF0A7 ;
+  color: #162E3C;
+
+}
